@@ -43,6 +43,9 @@ export default {
           DEFAULT: "hsl(var(--popover))",
           foreground: "hsl(var(--popover-foreground))",
         },
+        "price-up": "hsl(var(--price-up))",
+        "price-down": "hsl(var(--price-down))",
+        "price-neutral": "hsl(var(--price-neutral))",
         card: {
           DEFAULT: "hsl(var(--card))",
           foreground: "hsl(var(--card-foreground))",
